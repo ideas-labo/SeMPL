@@ -3,9 +3,9 @@
 >
 >In this paper, we target configuration performance learning under multiple environments. We do so by designing **SeMPL** — a meta-learning framework that learns the common understanding from configurations measured in distinct (meta) environments and generalizes them to the unforeseen, target environment. What makes it unique is that unlike common meta-learning frameworks (e.g., MAML and MetaSGD) that train the meta environments in parallel, we train them sequentially, one at a time. The order of training naturally allows discriminating the contributions among meta environments in the meta-model built, which fits better with the characteristic of configuration data that is known to dramatically differ between different environments.
 >
->Through comparing with 15 state-of-the-art models under nine systems, our extensive experimental results demonstrate that \Model~performs considerably better on **89%** of the systems with up to **99%** accuracy improvement, while being data-efficient, leading to a maximum of **3.86×** speedup.
+>Through comparing with 15 state-of-the-art models under nine systems, our extensive experimental results demonstrate that *SeMPL*~performs considerably better on **89%** of the systems with up to **99%** accuracy improvement, while being data-efficient, leading to a maximum of **3.86×** speedup.
 
-This repository contains the **key codes**, **full data used**, **raw experiment results** and **the supplementary tables** for the paper.
+This repository contains the **key codes**, **full data used**, **raw experiment results**, and **the supplementary tables** for the paper.
 
 # Citation
 

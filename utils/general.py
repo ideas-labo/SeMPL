@@ -84,31 +84,31 @@ def init_dir(dir_name):
 
 
 def get_sizes(dir_data, total_environments):
-    if dir_data == 'Data/deeparch-SizeReduction-3environments.csv':
+    if dir_data == 'data/deeparch-SizeReduction-3environments.csv':
         sample_sizes = [12, 24, 36, 48, 60]
         selected_environments = range(total_environments)
-    elif dir_data == 'Data/sqlite-overwritebatch-4environments.csv':
+    elif dir_data == 'data/sqlite-overwritebatch-4environments.csv':
         sample_sizes = [14, 28, 42, 56, 70]
         selected_environments = range(total_environments)
-    elif dir_data == 'Data/sac_srad_others-5environments.csv':
+    elif dir_data == 'data/sac_srad_others-5environments.csv':
         sample_sizes = [58, 116, 174, 232, 290]
         selected_environments = range(total_environments)
-    elif dir_data == 'Data/spear-10286-6environments.csv':
+    elif dir_data == 'data/spear-10286-6environments.csv':
         sample_sizes = [14, 28, 42, 56, 70]
         selected_environments = range(total_environments)
-    elif dir_data == 'Data/storm-obj2-3environments.csv':
+    elif dir_data == 'data/storm-obj2-3environments.csv':
         sample_sizes = [158, 261, 422, 678, 903]
         selected_environments = range(total_environments)
-    elif dir_data == 'Data/imagemagick-4environments.csv':
+    elif dir_data == 'data/imagemagick-4environments.csv':
         sample_sizes = [11, 24, 45, 66, 70]
         selected_environments = range(total_environments)
-    elif dir_data == 'Data/x264-diff_input-10environments.csv':
+    elif dir_data == 'data/x264-diff_input-10environments.csv':
         sample_sizes = [24, 53, 81, 122, 141]
         selected_environments = range(total_environments)
-    elif dir_data == 'Data/exastencils-4environments.csv':
+    elif dir_data == 'data/exastencils-4environments.csv':
         sample_sizes = [106, 181, 355, 485, 695]
         selected_environments = range(total_environments)
-    elif dir_data == 'Data/nginx-4environments.csv':
+    elif dir_data == 'data/nginx-4environments.csv':
         sample_sizes = [16, 32, 48, 64, 80]
         selected_environments = range(total_environments)
     return sample_sizes, selected_environments

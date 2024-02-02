@@ -1,0 +1,121 @@
+N_train=60 N_test=4036 lr_range_max=1 lambda_max=1
+Run 1
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 75.58752167420188
+time (min): 0.35219306548436485
+Run 2
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 59.518328519112714
+time (min): 0.33340274095535277
+Run 3
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 68.30308529562559
+time (min): 0.33313004970550536
+Run 4
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 37.73593770211238
+time (min): 0.32569797039031984
+Run 5
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 47.531770446372654
+time (min): 0.3948634584744771
+Run 6
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 51.25662173079925
+time (min): 0.3360662976900736
+Run 7
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 80.84433078683062
+time (min): 0.3379738569259644
+Run 8
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 58.05411399280044
+time (min): 0.3214302659034729
+Run 9
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 39.340420885509644
+time (min): 0.322153910001119
+Run 10
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 65.54049033637021
+time (min): 0.32341068188349403
+Run 11
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 86.1607770289368
+time (min): 0.3286927342414856
+Run 12
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 52.60562460082364
+time (min): 0.32060575087865195
+Run 13
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 35.056695971418876
+time (min): 0.321696937084198
+Run 14
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 73.96466334579576
+time (min): 0.3236936052640279
+Run 15
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 60.599688729165024
+time (min): 0.32514161666234337
+Run 16
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 47.63213303532063
+time (min): 0.3488574862480164
+Run 17
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 78.22019331118278
+time (min): 0.35579774777094525
+Run 18
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 70.94727727428209
+time (min): 0.3230470776557922
+Run 19
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 50.227260322003055
+time (min): 0.32639925479888915
+Run 20
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 31.726481903960867
+time (min): 0.3209537863731384
+Run 21
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 53.538075594839675
+time (min): 0.345147705078125
+Run 22
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 59.44500753029074
+time (min): 0.33432231744130453
+Run 23
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 45.19147120134877
+time (min): 0.33619672457377114
+Run 24
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 36.95555233816197
+time (min): 0.3383037090301514
+Run 25
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 49.503926055736144
+time (min): 0.32754038174947103
+Run 26
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 67.05939762353917
+time (min): 0.3274288853009542
+Run 27
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 26.4626242380844
+time (min): 0.3201723535855611
+Run 28
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 41.31191024582276
+time (min): 0.3935540278752645
+Run 29
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 44.6212432771205
+time (min): 0.3270162224769592
+Run 30
+n_layer=7/lr=0.001/lambda=0.01
+Environment 0 Beetle RE: 47.28333740240672
+time (min): 0.3352721174558004

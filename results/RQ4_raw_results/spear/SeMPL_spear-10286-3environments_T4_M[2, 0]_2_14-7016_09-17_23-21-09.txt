@@ -1,0 +1,121 @@
+N_train=14 N_test=15723 lr_range_max=5 lambda_max=30
+Run 1
+n_layer=14/lr=0.01/lambda=0.32903445623126676
+Environment 1 SeMPL MRE: 500.85835409945598
+time (min): 5.270867433071137
+Run 2
+n_layer=14/lr=0.01/lambda=0.32903445623126676
+Environment 1 SeMPL MRE: 556.5598365050578
+time (min): 5.2870654735565195
+Run 3
+n_layer=14/lr=0.01/lambda=0.01373823795883263
+Environment 1 SeMPL MRE: 806.2228090349729
+time (min): 5.163425040721894
+Run 4
+n_layer=14/lr=1e-05/lambda=0.01
+Environment 1 SeMPL MRE: 36.540244062981476
+time (min): 5.2111396679878235
+Run 5
+n_layer=14/lr=0.01/lambda=38.56620421163472
+Environment 1 SeMPL MRE: 604.9052774421264
+time (min): 5.247730535030366
+Run 6
+n_layer=14/lr=0.01/lambda=0.6210169418915616
+Environment 1 SeMPL MRE: 567.3246906396733
+time (min): 5.172545950412751
+Run 7
+n_layer=14/lr=0.01/lambda=20.433597178569418
+Environment 1 SeMPL MRE: 804.6173394831083
+time (min): 5.014557784080505
+Run 8
+n_layer=14/lr=0.01/lambda=0.02592943797404667
+Environment 1 SeMPL MRE: 573.5026956990512
+time (min): 5.001368280887604
+Run 9
+n_layer=14/lr=1e-05/lambda=14.873521072935118
+Environment 1 SeMPL MRE: 297.95198052829846
+time (min): 5.001635583400727
+Run 10
+n_layer=14/lr=1e-05/lambda=100.0
+Environment 1 SeMPL MRE: 462.1138690032387
+time (min): 5.004796663284302
+Run 11
+n_layer=14/lr=1e-05/lambda=0.2395026619987486
+Environment 1 SeMPL MRE: 278.3998790683841
+time (min): 4.960708331108093
+Run 12
+n_layer=14/lr=0.01/lambda=0.12689610031679222
+Environment 1 SeMPL MRE: 430.6431279704282
+time (min): 4.905645073413849
+Run 13
+n_layer=14/lr=0.01/lambda=0.01
+Environment 1 SeMPL MRE: 629.623179998538
+time (min): 4.882399603843689
+Run 14
+n_layer=14/lr=1e-05/lambda=3.039195382313198
+Environment 1 SeMPL MRE: 239.13057621414208
+time (min): 4.877109021663666
+Run 15
+n_layer=14/lr=0.01/lambda=0.04893900918477494
+Environment 1 SeMPL MRE: 528.992339235544
+time (min): 5.064737996578216
+Run 16
+n_layer=14/lr=1e-05/lambda=2.212216291070448
+Environment 1 SeMPL MRE: 468.58018528382775
+time (min): 4.966542822360993
+Run 17
+n_layer=14/lr=0.01/lambda=0.01
+Environment 1 SeMPL MRE: 697.8066717372559
+time (min): 4.897980856418609
+Run 18
+n_layer=14/lr=0.01/lambda=14.873521072935118
+Environment 1 SeMPL MRE: 716.1161068260781
+time (min): 4.885024688243866
+Run 19
+n_layer=14/lr=0.01/lambda=38.56620421163472
+Environment 1 SeMPL MRE: 984.3586988554507
+time (min): 4.904148349285126
+Run 20
+n_layer=14/lr=0.01/lambda=0.018873918221350976
+Environment 1 SeMPL MRE: 614.629812153854
+time (min): 4.958773286819458
+Run 21
+n_layer=14/lr=0.01/lambda=0.01
+Environment 1 SeMPL MRE: 543.9057434564667
+time (min): 4.969321887016297
+Run 22
+n_layer=14/lr=0.01/lambda=0.8531678524172805
+Environment 1 SeMPL MRE: 385.4646597767385
+time (min): 4.922764755249023
+Run 23
+n_layer=14/lr=1e-05/lambda=1.6102620275609392
+Environment 1 SeMPL MRE: 435.832844894458
+time (min): 5.119496370792389
+Run 24
+n_layer=14/lr=1e-05/lambda=38.56620421163472
+Environment 1 SeMPL MRE: 38.744672489411965
+time (min): 4.990657868385315
+Run 25
+n_layer=14/lr=1e-05/lambda=1.1721022975334805
+Environment 1 SeMPL MRE: 254.59039573055685
+time (min): 4.9874580531120305
+Run 26
+n_layer=14/lr=1e-05/lambda=100.0
+Environment 1 SeMPL MRE: 227.50328172194335
+time (min): 5.096768610477447
+Run 27
+n_layer=14/lr=1e-05/lambda=0.035622478902624426
+Environment 1 SeMPL MRE: 34.531994431633752
+time (min): 4.991863441944123
+Run 28
+n_layer=14/lr=0.001/lambda=0.2395026619987486
+Environment 1 SeMPL MRE: 662.7996788931888
+time (min): 5.011416479587556
+Run 29
+n_layer=14/lr=1e-05/lambda=4.175318936560401
+Environment 1 SeMPL MRE: 191.760726817703
+time (min): 5.027246971607209
+Run 30
+n_layer=14/lr=1e-05/lambda=100.0
+Environment 1 SeMPL MRE: 47.676816360877858
+time (min): 5.0231936817169185

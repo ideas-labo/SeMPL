@@ -1,0 +1,151 @@
+N_train=80 N_test=1024
+Run 1
+environment 0 XGBoost+ RE: 30.175090325245268
+environment 1 XGBoost+ RE: 30.23344389701224
+environment 2 XGBoost+ RE: 18.47860388625077
+environment 3 XGBoost+ RE: 50.8378488434567
+Run 2
+environment 0 XGBoost+ RE: 25.70062482018355
+environment 1 XGBoost+ RE: 25.80891514788788
+environment 2 XGBoost+ RE: 18.657355415706995
+environment 3 XGBoost+ RE: 41.504577496599154
+Run 3
+environment 0 XGBoost+ RE: 27.566436062928556
+environment 1 XGBoost+ RE: 27.683263511864283
+environment 2 XGBoost+ RE: 15.090565384571821
+environment 3 XGBoost+ RE: 40.37523687544038
+Run 4
+environment 0 XGBoost+ RE: 23.404297071112683
+environment 1 XGBoost+ RE: 23.546812282405007
+environment 2 XGBoost+ RE: 14.653996194554669
+environment 3 XGBoost+ RE: 35.113671911220955
+Run 5
+environment 0 XGBoost+ RE: 18.527547060222446
+environment 1 XGBoost+ RE: 18.611341367655037
+environment 2 XGBoost+ RE: 9.182118674901165
+environment 3 XGBoost+ RE: 32.479423399275916
+Run 6
+environment 0 XGBoost+ RE: 21.763822313816817
+environment 1 XGBoost+ RE: 21.808959515863226
+environment 2 XGBoost+ RE: 13.471618071672042
+environment 3 XGBoost+ RE: 43.921455667599794
+Run 7
+environment 0 XGBoost+ RE: 21.53415982147481
+environment 1 XGBoost+ RE: 21.58293452989235
+environment 2 XGBoost+ RE: 12.024719069085114
+environment 3 XGBoost+ RE: 32.92478031091597
+Run 8
+environment 0 XGBoost+ RE: 30.3994060775721
+environment 1 XGBoost+ RE: 30.52707953955458
+environment 2 XGBoost+ RE: 17.090004280988225
+environment 3 XGBoost+ RE: 40.15741333398967
+Run 9
+environment 0 XGBoost+ RE: 24.001830563025862
+environment 1 XGBoost+ RE: 24.071097499135224
+environment 2 XGBoost+ RE: 12.952110500625052
+environment 3 XGBoost+ RE: 33.31878117487778
+Run 10
+environment 0 XGBoost+ RE: 27.07106271946762
+environment 1 XGBoost+ RE: 27.167427816574865
+environment 2 XGBoost+ RE: 17.504795048048017
+environment 3 XGBoost+ RE: 43.297423587446374
+Run 11
+environment 0 XGBoost+ RE: 31.75996037458544
+environment 1 XGBoost+ RE: 31.874628259548448
+environment 2 XGBoost+ RE: 19.6586447279534
+environment 3 XGBoost+ RE: 44.8397940790624
+Run 12
+environment 0 XGBoost+ RE: 20.216579231136155
+environment 1 XGBoost+ RE: 20.365369307608216
+environment 2 XGBoost+ RE: 10.841630147854469
+environment 3 XGBoost+ RE: 27.830658653332403
+Run 13
+environment 0 XGBoost+ RE: 24.975627331707283
+environment 1 XGBoost+ RE: 25.109000012428268
+environment 2 XGBoost+ RE: 14.04403515078041
+environment 3 XGBoost+ RE: 39.59989618470771
+Run 14
+environment 0 XGBoost+ RE: 19.750814164581865
+environment 1 XGBoost+ RE: 19.861334324755294
+environment 2 XGBoost+ RE: 12.66974148635638
+environment 3 XGBoost+ RE: 41.88068993075807
+Run 15
+environment 0 XGBoost+ RE: 20.302394442432135
+environment 1 XGBoost+ RE: 20.310835403160716
+environment 2 XGBoost+ RE: 10.558181420926175
+environment 3 XGBoost+ RE: 34.114283850350816
+Run 16
+environment 0 XGBoost+ RE: 28.991503795014488
+environment 1 XGBoost+ RE: 29.137492416601706
+environment 2 XGBoost+ RE: 16.080212602625856
+environment 3 XGBoost+ RE: 42.1110022524848
+Run 17
+environment 0 XGBoost+ RE: 23.811442701351098
+environment 1 XGBoost+ RE: 23.816104287371616
+environment 2 XGBoost+ RE: 14.414529326108234
+environment 3 XGBoost+ RE: 36.37577283021671
+Run 18
+environment 0 XGBoost+ RE: 29.03104659824654
+environment 1 XGBoost+ RE: 29.12612764160639
+environment 2 XGBoost+ RE: 17.62104001079431
+environment 3 XGBoost+ RE: 47.8958606905372
+Run 19
+environment 0 XGBoost+ RE: 19.33555513212883
+environment 1 XGBoost+ RE: 19.42951938725127
+environment 2 XGBoost+ RE: 12.721721629400959
+environment 3 XGBoost+ RE: 42.085834458410254
+Run 20
+environment 0 XGBoost+ RE: 18.181024683215412
+environment 1 XGBoost+ RE: 18.23712252265825
+environment 2 XGBoost+ RE: 9.677603900802657
+environment 3 XGBoost+ RE: 32.9072976053334
+Run 21
+environment 0 XGBoost+ RE: 26.470957579726434
+environment 1 XGBoost+ RE: 26.552474753638798
+environment 2 XGBoost+ RE: 14.325809036938836
+environment 3 XGBoost+ RE: 38.853504225085935
+Run 22
+environment 0 XGBoost+ RE: 26.740760378368122
+environment 1 XGBoost+ RE: 26.875888664591596
+environment 2 XGBoost+ RE: 14.387032056269671
+environment 3 XGBoost+ RE: 37.04958930802854
+Run 23
+environment 0 XGBoost+ RE: 35.089844406064756
+environment 1 XGBoost+ RE: 35.19658270546701
+environment 2 XGBoost+ RE: 22.301317427537214
+environment 3 XGBoost+ RE: 39.27713237985571
+Run 24
+environment 0 XGBoost+ RE: 26.86874455022489
+environment 1 XGBoost+ RE: 27.001707648961826
+environment 2 XGBoost+ RE: 15.412172470823322
+environment 3 XGBoost+ RE: 39.20404885853973
+Run 25
+environment 0 XGBoost+ RE: 17.225033726037626
+environment 1 XGBoost+ RE: 17.303397353808307
+environment 2 XGBoost+ RE: 10.256673967932404
+environment 3 XGBoost+ RE: 30.861502443039267
+Run 26
+environment 0 XGBoost+ RE: 28.187302217353167
+environment 1 XGBoost+ RE: 28.289923557304707
+environment 2 XGBoost+ RE: 15.551212393326674
+environment 3 XGBoost+ RE: 41.145521777047605
+Run 27
+environment 0 XGBoost+ RE: 29.55165515028524
+environment 1 XGBoost+ RE: 29.651113738407126
+environment 2 XGBoost+ RE: 16.81884335273633
+environment 3 XGBoost+ RE: 41.48730349335412
+Run 28
+environment 0 XGBoost+ RE: 43.246113881655326
+environment 1 XGBoost+ RE: 43.25999773088177
+environment 2 XGBoost+ RE: 25.356595361316458
+environment 3 XGBoost+ RE: 45.08558502747265
+Run 29
+environment 0 XGBoost+ RE: 18.463830475448624
+environment 1 XGBoost+ RE: 18.609389502348144
+environment 2 XGBoost+ RE: 12.211565290482723
+environment 3 XGBoost+ RE: 36.38385421107028
+Run 30
+environment 0 XGBoost+ RE: 26.861773875536134
+environment 1 XGBoost+ RE: 27.006431218198312
+environment 2 XGBoost+ RE: 18.883710746181258
+environment 3 XGBoost+ RE: 45.58994357651027

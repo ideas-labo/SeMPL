@@ -1,0 +1,121 @@
+N_train=39 N_test=4057 
+Run 1
+Environment 0 SPLConqueror+e RE: 173.51497272627833
+Environment 1 SPLConqueror+e RE: 119.81293771163652
+Environment 2 SPLConqueror+e RE: 152.57151580716396
+Run 2
+Environment 0 SPLConqueror+e RE: 140.98833551688335
+Environment 1 SPLConqueror+e RE: 113.66722804544062
+Environment 2 SPLConqueror+e RE: 119.7533918217506
+Run 3
+Environment 0 SPLConqueror+e RE: 130.59403047263905
+Environment 1 SPLConqueror+e RE: 105.73441600548266
+Environment 2 SPLConqueror+e RE: 117.4537916080929
+Run 4
+Environment 0 SPLConqueror+e RE: 167.12703148326818
+Environment 1 SPLConqueror+e RE: 119.8289402047116
+Environment 2 SPLConqueror+e RE: 157.4953311153061
+Run 5
+Environment 0 SPLConqueror+e RE: 142.49068346403152
+Environment 1 SPLConqueror+e RE: 100.04180023650393
+Environment 2 SPLConqueror+e RE: 128.7952406795613
+Run 6
+Environment 0 SPLConqueror+e RE: 178.94540333349633
+Environment 1 SPLConqueror+e RE: 112.66117864396759
+Environment 2 SPLConqueror+e RE: 153.06917271083478
+Run 7
+Environment 0 SPLConqueror+e RE: 194.62437847726997
+Environment 1 SPLConqueror+e RE: 162.63838702476488
+Environment 2 SPLConqueror+e RE: 194.5537567239766
+Run 8
+Environment 0 SPLConqueror+e RE: 119.26550999791854
+Environment 1 SPLConqueror+e RE: 87.58915670706492
+Environment 2 SPLConqueror+e RE: 106.5763530382038
+Run 9
+Environment 0 SPLConqueror+e RE: 127.79391658010546
+Environment 1 SPLConqueror+e RE: 101.12584386656846
+Environment 2 SPLConqueror+e RE: 116.08735432250403
+Run 10
+Environment 0 SPLConqueror+e RE: 100.37355732930875
+Environment 1 SPLConqueror+e RE: 79.97819849974053
+Environment 2 SPLConqueror+e RE: 94.87682558742003
+Run 11
+Environment 0 SPLConqueror+e RE: 173.014069351954
+Environment 1 SPLConqueror+e RE: 126.95949547444663
+Environment 2 SPLConqueror+e RE: 161.63999100965867
+Run 12
+Environment 0 SPLConqueror+e RE: 156.88949173444055
+Environment 1 SPLConqueror+e RE: 96.04470209229268
+Environment 2 SPLConqueror+e RE: 133.42071009336536
+Run 13
+Environment 0 SPLConqueror+e RE: 138.0446823573523
+Environment 1 SPLConqueror+e RE: 92.8638376957869
+Environment 2 SPLConqueror+e RE: 121.23351429905324
+Run 14
+Environment 0 SPLConqueror+e RE: 147.6949181807339
+Environment 1 SPLConqueror+e RE: 133.2856580122478
+Environment 2 SPLConqueror+e RE: 153.9506177386824
+Run 15
+Environment 0 SPLConqueror+e RE: 114.63372982692792
+Environment 1 SPLConqueror+e RE: 87.42886997909596
+Environment 2 SPLConqueror+e RE: 106.98962372616553
+Run 16
+Environment 0 SPLConqueror+e RE: 157.77388179145822
+Environment 1 SPLConqueror+e RE: 119.94444711809602
+Environment 2 SPLConqueror+e RE: 159.67846399023873
+Run 17
+Environment 0 SPLConqueror+e RE: 178.03909126758938
+Environment 1 SPLConqueror+e RE: 118.01083545111798
+Environment 2 SPLConqueror+e RE: 152.8853411449021
+Run 18
+Environment 0 SPLConqueror+e RE: 147.3151079126601
+Environment 1 SPLConqueror+e RE: 96.99244417707472
+Environment 2 SPLConqueror+e RE: 128.9787679663481
+Run 19
+Environment 0 SPLConqueror+e RE: 135.05567710849417
+Environment 1 SPLConqueror+e RE: 104.17852773422518
+Environment 2 SPLConqueror+e RE: 127.58720545621588
+Run 20
+Environment 0 SPLConqueror+e RE: 145.52060379362624
+Environment 1 SPLConqueror+e RE: 103.74259709741831
+Environment 2 SPLConqueror+e RE: 123.94015709950763
+Run 21
+Environment 0 SPLConqueror+e RE: 112.73301404387163
+Environment 1 SPLConqueror+e RE: 80.76432710034211
+Environment 2 SPLConqueror+e RE: 101.67430319159607
+Run 22
+Environment 0 SPLConqueror+e RE: 132.04257406181267
+Environment 1 SPLConqueror+e RE: 106.27681310675516
+Environment 2 SPLConqueror+e RE: 128.8268789173274
+Run 23
+Environment 0 SPLConqueror+e RE: 178.2108245381051
+Environment 1 SPLConqueror+e RE: 148.68890425090558
+Environment 2 SPLConqueror+e RE: 184.18302133900409
+Run 24
+Environment 0 SPLConqueror+e RE: 153.17547676640459
+Environment 1 SPLConqueror+e RE: 95.9440262770449
+Environment 2 SPLConqueror+e RE: 134.24723585194812
+Run 25
+Environment 0 SPLConqueror+e RE: 117.98112898861855
+Environment 1 SPLConqueror+e RE: 90.718326949901
+Environment 2 SPLConqueror+e RE: 109.5514159505634
+Run 26
+Environment 0 SPLConqueror+e RE: 176.89323600321197
+Environment 1 SPLConqueror+e RE: 95.22011311609998
+Environment 2 SPLConqueror+e RE: 144.96638408842816
+Run 27
+Environment 0 SPLConqueror+e RE: 138.56563574958932
+Environment 1 SPLConqueror+e RE: 105.51690950763034
+Environment 2 SPLConqueror+e RE: 124.07998089607327
+Run 28
+Environment 0 SPLConqueror+e RE: 135.93345789031787
+Environment 1 SPLConqueror+e RE: 86.90366213692887
+Environment 2 SPLConqueror+e RE: 118.22073731774157
+Run 29
+Environment 0 SPLConqueror+e RE: 195.05844163198162
+Environment 1 SPLConqueror+e RE: 106.22456399984794
+Environment 2 SPLConqueror+e RE: 161.96917588934986
+Run 30
+Environment 0 SPLConqueror+e RE: 187.8329069281956
+Environment 1 SPLConqueror+e RE: 138.59271426105687
+Environment 2 SPLConqueror+e RE: 182.8407873880818

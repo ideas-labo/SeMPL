@@ -1,0 +1,91 @@
+N_train=141 N_test=60 
+Run 1
+Environment 8 Beetle RE: 14.691112347151995
+time (min): 2.6898717284202576
+Run 2
+Environment 8 Beetle RE: 18.013944638944107
+time (min): 2.6554235855738324
+Run 3
+Environment 8 Beetle RE: 15.324705615288229
+time (min): 2.627960507074992
+Run 4
+Environment 8 Beetle RE: 16.592254618209747
+time (min): 2.684284059206645
+Run 5
+Environment 8 Beetle RE: 11.06309853319669
+time (min): 2.6529890576998394
+Run 6
+Environment 8 Beetle RE: 14.356921148563472
+time (min): 2.6607887427012127
+Run 7
+Environment 8 Beetle RE: 22.347763176471055
+time (min): 2.7018247842788696
+Run 8
+Environment 8 Beetle RE: 15.432350548164603
+time (min): 2.751447661717733
+Run 9
+Environment 8 Beetle RE: 14.361768028770372
+time (min): 2.6934802293777467
+Run 10
+Environment 8 Beetle RE: 15.196097902506065
+time (min): 2.6455391526222227
+Run 11
+Environment 8 Beetle RE: 20.015859036783173
+time (min): 2.6372127652168276
+Run 12
+Environment 8 Beetle RE: 16.09802611834065
+time (min): 2.696540900071462
+Run 13
+Environment 8 Beetle RE: 20.163104257578635
+time (min): 2.7007720112800597
+Run 14
+Environment 8 Beetle RE: 13.94177929188099
+time (min): 2.6709717392921446
+Run 15
+Environment 8 Beetle RE: 18.415491167640134
+time (min): 2.684128824869792
+Run 16
+Environment 8 Beetle RE: 15.650482939038735
+time (min): 2.6828774412473044
+Run 17
+Environment 8 Beetle RE: 15.650876155755306
+time (min): 2.674633812904358
+Run 18
+Environment 8 Beetle RE: 16.194131671303314
+time (min): 2.674550227324168
+Run 19
+Environment 8 Beetle RE: 16.042952132559453
+time (min): 2.680051016807556
+Run 20
+Environment 8 Beetle RE: 13.459127630090178
+time (min): 2.702994720141093
+Run 21
+Environment 8 Beetle RE: 21.702330085259028
+time (min): 2.659307622909546
+Run 22
+Environment 8 Beetle RE: 16.626119562214985
+time (min): 2.700079683462779
+Run 23
+Environment 8 Beetle RE: 18.152795868967072
+time (min): 2.675393835703532
+Run 24
+Environment 8 Beetle RE: 15.287959031944673
+time (min): 2.6795040488243105
+Run 25
+Environment 8 Beetle RE: 14.501315688201219
+time (min): 2.630047619342804
+Run 26
+Environment 8 Beetle RE: 14.48671952941249
+time (min): 2.6382720907529196
+Run 27
+Environment 8 Beetle RE: 13.509178859010834
+time (min): 2.6431748509407043
+Run 28
+Environment 8 Beetle RE: 22.548374948792077
+time (min): 2.653759821256002
+Run 29
+Environment 8 Beetle RE: 14.58425598040162
+time (min): 2.6321364283561706
+Run 30
+Environment 8 Beetle RE: 13.836848197941546
+time (min): 2.615110703309377

@@ -1,0 +1,61 @@
+N_train=695 N_test=3403 
+Run 1
+Environment 3 MetaSGD RE: 3.1970983260329
+Run 2
+Environment 3 MetaSGD RE: 4.757762527073595
+Run 3
+Environment 3 MetaSGD RE: 3.142409143360496
+Run 4
+Environment 3 MetaSGD RE: 5.38888658530701
+Run 5
+Environment 3 MetaSGD RE: 2.417578238998754
+Run 6
+Environment 3 MetaSGD RE: 3.82277202004305
+Run 7
+Environment 3 MetaSGD RE: 3.783566213183086
+Run 8
+Environment 3 MetaSGD RE: 1.517935466794553
+Run 9
+Environment 3 MetaSGD RE: 7.200217689735783
+Run 10
+Environment 3 MetaSGD RE: 3.83783764158039
+Run 11
+Environment 3 MetaSGD RE: 3.404540727226262
+Run 12
+Environment 3 MetaSGD RE: 2.764659799328793
+Run 13
+Environment 3 MetaSGD RE: 3.953003094408885
+Run 14
+Environment 3 MetaSGD RE: 1.836319026663364
+Run 15
+Environment 3 MetaSGD RE: 4.807342075247085
+Run 16
+Environment 3 MetaSGD RE: 5.59610685795609
+Run 17
+Environment 3 MetaSGD RE: 5.579346066180316
+Run 18
+Environment 3 MetaSGD RE: 2.430075987116217
+Run 19
+Environment 3 MetaSGD RE: 8.568156942742355
+Run 20
+Environment 3 MetaSGD RE: 3.77660769795491
+Run 21
+Environment 3 MetaSGD RE: 3.257369068539477
+Run 22
+Environment 3 MetaSGD RE: 3.25810731709286
+Run 23
+Environment 3 MetaSGD RE: 1.762223353131251
+Run 24
+Environment 3 MetaSGD RE: 5.014413068654909
+Run 25
+Environment 3 MetaSGD RE: 1.919473066356986
+Run 26
+Environment 3 MetaSGD RE: 3.363495525174514
+Run 27
+Environment 3 MetaSGD RE: 5.894099814096771
+Run 28
+Environment 3 MetaSGD RE: 3.688140020176757
+Run 29
+Environment 3 MetaSGD RE: 4.725809915433311
+Run 30
+Environment 3 MetaSGD RE: 3.17390757223641

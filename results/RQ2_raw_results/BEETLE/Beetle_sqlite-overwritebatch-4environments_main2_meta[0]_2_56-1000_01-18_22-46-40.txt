@@ -1,0 +1,91 @@
+N_train=56 N_test=944 
+Run 1
+Environment 2 Beetle RE: 1.3364904472693129
+time (min): 1.5863118330637613
+Run 2
+Environment 2 Beetle RE: 0.8190832766783775
+time (min): 1.5232301592826842
+Run 3
+Environment 2 Beetle RE: 1.3112454251125258
+time (min): 1.6175940354665121
+Run 4
+Environment 2 Beetle RE: 0.885533123896731
+time (min): 1.4954786419868469
+Run 5
+Environment 2 Beetle RE: 0.8209190648775394
+time (min): 1.544483474890391
+Run 6
+Environment 2 Beetle RE: 0.8343490825941725
+time (min): 1.5546116828918457
+Run 7
+Environment 2 Beetle RE: 0.9165258660298998
+time (min): 1.578002146879832
+Run 8
+Environment 2 Beetle RE: 0.8243157850760234
+time (min): 1.5817623058954875
+Run 9
+Environment 2 Beetle RE: 0.846921883201178
+time (min): 1.5141937375068664
+Run 10
+Environment 2 Beetle RE: 0.8951229386753707
+time (min): 1.5784263253211974
+Run 11
+Environment 2 Beetle RE: 0.8175858003008414
+time (min): 1.4588235378265382
+Run 12
+Environment 2 Beetle RE: 0.8373518144374705
+time (min): 1.5663642883300781
+Run 13
+Environment 2 Beetle RE: 0.8660902942777748
+time (min): 1.4931276003519693
+Run 14
+Environment 2 Beetle RE: 0.8578131455357161
+time (min): 1.567023793856303
+Run 15
+Environment 2 Beetle RE: 0.8560827639571515
+time (min): 1.499845270315806
+Run 16
+Environment 2 Beetle RE: 0.8270008964376494
+time (min): 1.5588686386744182
+Run 17
+Environment 2 Beetle RE: 0.8196765172149978
+time (min): 1.509366257985433
+Run 18
+Environment 2 Beetle RE: 1.0000164698881246
+time (min): 1.5720311482747396
+Run 19
+Environment 2 Beetle RE: 0.8539743276869811
+time (min): 1.483194883664449
+Run 20
+Environment 2 Beetle RE: 0.8365813743933465
+time (min): 1.538591702779134
+Run 21
+Environment 2 Beetle RE: 0.857193026075672
+time (min): 1.4741307655970255
+Run 22
+Environment 2 Beetle RE: 1.2128167261067193
+time (min): 1.5136383732159933
+Run 23
+Environment 2 Beetle RE: 0.8345723888714475
+time (min): 1.5390504161516825
+Run 24
+Environment 2 Beetle RE: 0.8344500299961973
+time (min): 1.507219405968984
+Run 25
+Environment 2 Beetle RE: 1.0072019917198929
+time (min): 1.597451098759969
+Run 26
+Environment 2 Beetle RE: 0.8442976589548359
+time (min): 1.4762075781822204
+Run 27
+Environment 2 Beetle RE: 0.8353256496554712
+time (min): 1.5430246710777282
+Run 28
+Environment 2 Beetle RE: 0.8262819264350194
+time (min): 1.5326691667238872
+Run 29
+Environment 2 Beetle RE: 0.8277651230910515
+time (min): 1.5715590715408325
+Run 30
+Environment 2 Beetle RE: 1.0270297869221774
+time (min): 1.5208051482836404

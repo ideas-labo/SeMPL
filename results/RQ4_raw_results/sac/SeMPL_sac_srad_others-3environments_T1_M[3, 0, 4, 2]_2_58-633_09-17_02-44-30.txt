@@ -1,0 +1,91 @@
+N_train=58 N_test=787
+Run 1
+Target_environment 1 SeMPL MRE: 255.61310266277033
+time (min): 9.278947405020396
+Run 2
+Target_environment 1 SeMPL MRE: 165.25196928856562
+time (min): 9.419232070446014
+Run 3
+Target_environment 1 SeMPL MRE: 78.68339140836395
+time (min): 9.085804414749145
+Run 4
+Target_environment 1 SeMPL MRE: 143.73712696187667
+time (min): 9.120816950003306
+Run 5
+Target_environment 1 SeMPL MRE: 61.14584740060833
+time (min): 9.618386173248291
+Run 6
+Target_environment 1 SeMPL MRE: 44.692364297385254
+time (min): 9.338269905249279
+Run 7
+Target_environment 1 SeMPL MRE: 29.74928577123741
+time (min): 9.121452244122823
+Run 8
+Target_environment 1 SeMPL MRE: 71.25919484362792
+time (min): 9.627104071776072
+Run 9
+Target_environment 1 SeMPL MRE: 60.919674878057876
+time (min): 9.463723794619243
+Run 10
+Target_environment 1 SeMPL MRE: 68.92368395344492
+time (min): 9.658793195088704
+Run 11
+Target_environment 1 SeMPL MRE: 108.7105569216523
+time (min): 9.34634131193161
+Run 12
+Target_environment 1 SeMPL MRE: 79.57087431752174
+time (min): 9.4006982366244
+Run 13
+Target_environment 1 SeMPL MRE: 47.656413316627194
+time (min): 9.099510272343954
+Run 14
+Target_environment 1 SeMPL MRE: 62.23656001713336
+time (min): 8.86367822488149
+Run 15
+Target_environment 1 SeMPL MRE: 66.52594315080343
+time (min): 8.383074223995209
+Run 16
+Target_environment 1 SeMPL MRE: 83.98202391211224
+time (min): 8.602376794815063
+Run 17
+Target_environment 1 SeMPL MRE: 123.24447071738238
+time (min): 8.495821416378021
+Run 18
+Target_environment 1 SeMPL MRE: 42.94746112830401
+time (min): 8.342247490088145
+Run 19
+Target_environment 1 SeMPL MRE: 64.7020802634373
+time (min): 8.566376229127249
+Run 20
+Target_environment 1 SeMPL MRE: 96.70302078305994
+time (min): 8.496507211526234
+Run 21
+Target_environment 1 SeMPL MRE: 51.87282203038587
+time (min): 8.686599091688793
+Run 22
+Target_environment 1 SeMPL MRE: 76.88096164808343
+time (min): 8.085580432415009
+Run 23
+Target_environment 1 SeMPL MRE: 93.22645562069394
+time (min): 8.31841668287913
+Run 24
+Target_environment 1 SeMPL MRE: 49.859226352526726
+time (min): 8.32498691479365
+Run 25
+Target_environment 1 SeMPL MRE: 66.33064421631822
+time (min): 8.422682432333628
+Run 26
+Target_environment 1 SeMPL MRE: 93.37494287452046
+time (min): 8.23768934806188
+Run 27
+Target_environment 1 SeMPL MRE: 101.84306037971018
+time (min): 8.104268038272858
+Run 28
+Target_environment 1 SeMPL MRE: 291.48676148190566
+time (min): 8.284116288026175
+Run 29
+Target_environment 1 SeMPL MRE: 119.82520064144151
+time (min): 8.306454571088155
+Run 30
+Target_environment 1 SeMPL MRE: 400.11832373857254
+time (min): 8.30899537007014

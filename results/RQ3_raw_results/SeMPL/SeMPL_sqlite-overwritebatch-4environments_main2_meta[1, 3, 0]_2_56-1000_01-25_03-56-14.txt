@@ -1,0 +1,121 @@
+N_train=56 N_test=944 lr_range_max=1 lambda_max=30
+Run 1
+n_layer=7/lr=1e-05/lambda=0.06723357536499334
+Environment 2 SeMPL RE: 1.287403918553178
+time (min): 3.053591032822927
+Run 2
+n_layer=7/lr=1e-05/lambda=52.98316906283707
+Environment 2 SeMPL RE: 0.8197763252585114
+time (min): 3.0038407961527507
+Run 3
+n_layer=7/lr=1e-05/lambda=100.0
+Environment 2 SeMPL RE: 0.8230609995221065
+time (min): 3.0661046504974365
+Run 4
+n_layer=7/lr=1e-05/lambda=7.880462815669913
+Environment 2 SeMPL RE: 0.9005969948491991
+time (min): 3.038347093264262
+Run 5
+n_layer=7/lr=1e-05/lambda=38.56620421163472
+Environment 2 SeMPL RE: 0.8315880056115585
+time (min): 3.035590720176697
+Run 6
+n_layer=7/lr=1e-05/lambda=28.072162039411758
+Environment 2 SeMPL RE: 0.8325591738301851
+time (min): 3.1271872321764627
+Run 7
+n_layer=7/lr=1e-05/lambda=52.98316906283707
+Environment 2 SeMPL RE: 0.8834270506439849
+time (min): 3.0895283222198486
+Run 8
+n_layer=7/lr=1e-05/lambda=38.56620421163472
+Environment 2 SeMPL RE: 0.8204010391325021
+time (min): 2.9708883007367453
+Run 9
+n_layer=7/lr=1e-05/lambda=52.98316906283707
+Environment 2 SeMPL RE: 0.8395002169596858
+time (min): 2.9587528467178346
+Run 10
+n_layer=7/lr=1e-05/lambda=52.98316906283707
+Environment 2 SeMPL RE: 0.8864703106590935
+time (min): 2.957996189594269
+Run 11
+n_layer=7/lr=1e-05/lambda=100.0
+Environment 2 SeMPL RE: 0.8564434090855503
+time (min): 2.8665316383043926
+Run 12
+n_layer=7/lr=1e-05/lambda=52.98316906283707
+Environment 2 SeMPL RE: 0.8414641383991587
+time (min): 2.9380085706710815
+Run 13
+n_layer=7/lr=1e-05/lambda=20.433597178569418
+Environment 2 SeMPL RE: 0.8350971142866646
+time (min): 2.935008732477824
+Run 14
+n_layer=7/lr=1e-05/lambda=100.0
+Environment 2 SeMPL RE: 0.9151754365797811
+time (min): 2.953327214717865
+Run 15
+n_layer=7/lr=1e-05/lambda=52.98316906283707
+Environment 2 SeMPL RE: 0.8475543580844427
+time (min): 2.944934876759847
+Run 16
+n_layer=7/lr=1e-05/lambda=52.98316906283707
+Environment 2 SeMPL RE: 0.8304486540258242
+time (min): 2.95350821018219
+Run 17
+n_layer=7/lr=1e-05/lambda=52.98316906283707
+Environment 2 SeMPL RE: 0.8094776422567217
+time (min): 2.7983086784680684
+Run 18
+n_layer=7/lr=1e-05/lambda=10.82636733874054
+Environment 2 SeMPL RE: 0.8217784123371286
+time (min): 2.7690399885177612
+Run 19
+n_layer=7/lr=1e-05/lambda=0.32903445623126676
+Environment 2 SeMPL RE: 0.9217857694564381
+time (min): 2.6931147654851277
+Run 20
+n_layer=7/lr=1e-05/lambda=20.433597178569418
+Environment 2 SeMPL RE: 0.8485296673693172
+time (min): 2.791409496466319
+Run 21
+n_layer=7/lr=1e-05/lambda=28.072162039411758
+Environment 2 SeMPL RE: 0.8334968839533389
+time (min): 2.7735692421595255
+Run 22
+n_layer=7/lr=1e-05/lambda=0.09236708571873861
+Environment 2 SeMPL RE: 1.1972723948920743
+time (min): 2.7972307523091633
+Run 23
+n_layer=7/lr=1e-05/lambda=38.56620421163472
+Environment 2 SeMPL RE: 0.8534895683485831
+time (min): 2.8532045324643454
+Run 24
+n_layer=7/lr=1e-05/lambda=72.78953843983146
+Environment 2 SeMPL RE: 0.8326948343787999
+time (min): 2.7955211639404296
+Run 25
+n_layer=7/lr=1e-05/lambda=0.8531678524172805
+Environment 2 SeMPL RE: 1.0967301107217393
+time (min): 2.848187971115112
+Run 26
+n_layer=7/lr=1e-05/lambda=72.78953843983146
+Environment 2 SeMPL RE: 0.8262115093905176
+time (min): 2.8020273009936014
+Run 27
+n_layer=7/lr=1e-05/lambda=28.072162039411758
+Environment 2 SeMPL RE: 0.8321461823610108
+time (min): 2.7079523960749308
+Run 28
+n_layer=7/lr=1e-05/lambda=72.78953843983146
+Environment 2 SeMPL RE: 0.8311181616745856
+time (min): 2.779947904745738
+Run 29
+n_layer=7/lr=1e-05/lambda=14.873521072935118
+Environment 2 SeMPL RE: 0.8330712642498649
+time (min): 2.769589153925578
+Run 30
+n_layer=7/lr=1e-05/lambda=100.0
+Environment 2 SeMPL RE: 1.043892407164746
+time (min): 2.7076531449953714

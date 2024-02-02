@@ -1,0 +1,121 @@
+N_train=903 N_test=791 
+Run 1
+Environment 0 Deepperf+e RE: 10996.563697984931
+Environment 1 Deepperf+e RE: 66163.63174037987
+Environment 2 Deepperf+e RE: 57888.829808015966
+Run 2
+Environment 0 Deepperf+e RE: 12934.117084239344
+Environment 1 Deepperf+e RE: 63385.10040799378
+Environment 2 Deepperf+e RE: 57474.718005749106
+Run 3
+Environment 0 Deepperf+e RE: 18392.74568170786
+Environment 1 Deepperf+e RE: 64771.544580046495
+Environment 2 Deepperf+e RE: 55700.720831217426
+Run 4
+Environment 0 Deepperf+e RE: 11698.656109826155
+Environment 1 Deepperf+e RE: 72008.06291822654
+Environment 2 Deepperf+e RE: 56552.98178294506
+Run 5
+Environment 0 Deepperf+e RE: 12119.950374045633
+Environment 1 Deepperf+e RE: 59685.733759049195
+Environment 2 Deepperf+e RE: 53008.87650055212
+Run 6
+Environment 0 Deepperf+e RE: 10384.9352987118
+Environment 1 Deepperf+e RE: 70844.40082259451
+Environment 2 Deepperf+e RE: 63199.35943019234
+Run 7
+Environment 0 Deepperf+e RE: 8635.009500997197
+Environment 1 Deepperf+e RE: 71823.83872679166
+Environment 2 Deepperf+e RE: 57025.92965771542
+Run 8
+Environment 0 Deepperf+e RE: 9791.049024354325
+Environment 1 Deepperf+e RE: 70573.16701827134
+Environment 2 Deepperf+e RE: 62199.13620882273
+Run 9
+Environment 0 Deepperf+e RE: 9790.8035716354
+Environment 1 Deepperf+e RE: 73209.48813337504
+Environment 2 Deepperf+e RE: 59343.3803539682
+Run 10
+Environment 0 Deepperf+e RE: 11024.01266015776
+Environment 1 Deepperf+e RE: 67931.95128449956
+Environment 2 Deepperf+e RE: 69550.48925054136
+Run 11
+Environment 0 Deepperf+e RE: 11616.516544910743
+Environment 1 Deepperf+e RE: 64443.41602339988
+Environment 2 Deepperf+e RE: 60449.57035147743
+Run 12
+Environment 0 Deepperf+e RE: 14484.743169192412
+Environment 1 Deepperf+e RE: 70593.47637812501
+Environment 2 Deepperf+e RE: 65513.54809482895
+Run 13
+Environment 0 Deepperf+e RE: 9257.268655832731
+Environment 1 Deepperf+e RE: 68073.30451651786
+Environment 2 Deepperf+e RE: 60248.52574060557
+Run 14
+Environment 0 Deepperf+e RE: 10341.317086032921
+Environment 1 Deepperf+e RE: 67157.74281340049
+Environment 2 Deepperf+e RE: 54685.00526827737
+Run 15
+Environment 0 Deepperf+e RE: 11630.53166648675
+Environment 1 Deepperf+e RE: 74347.06914885285
+Environment 2 Deepperf+e RE: 62042.23966307105
+Run 16
+Environment 0 Deepperf+e RE: 9241.682432311602
+Environment 1 Deepperf+e RE: 69303.5369390159
+Environment 2 Deepperf+e RE: 52237.92480617047
+Run 17
+Environment 0 Deepperf+e RE: 10397.388548389401
+Environment 1 Deepperf+e RE: 63881.90585362303
+Environment 2 Deepperf+e RE: 56067.440621829395
+Run 18
+Environment 0 Deepperf+e RE: 13268.600646677907
+Environment 1 Deepperf+e RE: 66538.22458364468
+Environment 2 Deepperf+e RE: 65422.54401272854
+Run 19
+Environment 0 Deepperf+e RE: 10821.71245547565
+Environment 1 Deepperf+e RE: 63927.386330731475
+Environment 2 Deepperf+e RE: 58778.40968910437
+Run 20
+Environment 0 Deepperf+e RE: 9569.734702522557
+Environment 1 Deepperf+e RE: 64377.649901242046
+Environment 2 Deepperf+e RE: 53004.9817193638
+Run 21
+Environment 0 Deepperf+e RE: 10804.353556038608
+Environment 1 Deepperf+e RE: 74231.74400640155
+Environment 2 Deepperf+e RE: 53491.18340586465
+Run 22
+Environment 0 Deepperf+e RE: 11800.274592094205
+Environment 1 Deepperf+e RE: 70309.21699282574
+Environment 2 Deepperf+e RE: 56159.95457814422
+Run 23
+Environment 0 Deepperf+e RE: 10033.014827327886
+Environment 1 Deepperf+e RE: 72051.76007002151
+Environment 2 Deepperf+e RE: 65496.172275468336
+Run 24
+Environment 0 Deepperf+e RE: 11206.707221379957
+Environment 1 Deepperf+e RE: 71055.19244001534
+Environment 2 Deepperf+e RE: 58550.21360535611
+Run 25
+Environment 0 Deepperf+e RE: 9460.365579368581
+Environment 1 Deepperf+e RE: 65208.29949476531
+Environment 2 Deepperf+e RE: 57153.11345246191
+Run 26
+Environment 0 Deepperf+e RE: 9659.892064594458
+Environment 1 Deepperf+e RE: 61110.16619672565
+Environment 2 Deepperf+e RE: 54895.16478341452
+Run 27
+Environment 0 Deepperf+e RE: 11058.097409191587
+Environment 1 Deepperf+e RE: 69292.45164180601
+Environment 2 Deepperf+e RE: 54791.03131016012
+Run 28
+Environment 0 Deepperf+e RE: 9109.251735725435
+Environment 1 Deepperf+e RE: 59646.528899135876
+Environment 2 Deepperf+e RE: 53745.1482789036
+Run 29
+Environment 0 Deepperf+e RE: 9556.95904937336
+Environment 1 Deepperf+e RE: 79613.2405975744
+Environment 2 Deepperf+e RE: 64535.746287758215
+Run 30
+Environment 0 Deepperf+e RE: 10339.879766624028
+Environment 1 Deepperf+e RE: 70455.21977267663
+Environment 2 Deepperf+e RE: 60936.75413992131

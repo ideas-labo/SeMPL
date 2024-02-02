@@ -1,0 +1,91 @@
+N_train=42 N_test=13990 
+Run 1
+Environment 1 Beetle MRE: 23.929108053778165
+time (min): 1.1580957929293314
+Run 2
+Environment 1 Beetle MRE: 33.84417168884928
+time (min): 1.1108206907908122
+Run 3
+Environment 1 Beetle MRE: 35.581349848979315
+time (min): 1.1594693422317506
+Run 4
+Environment 1 Beetle MRE: 36.57853020313416
+time (min): 1.1307202299435934
+Run 5
+Environment 1 Beetle MRE: 53.19463805254924
+time (min): 1.125037165482839
+Run 6
+Environment 1 Beetle MRE: 34.792449012228325
+time (min): 1.1444868803024293
+Run 7
+Environment 1 Beetle MRE: 47.15629565665057
+time (min): 1.1160372138023376
+Run 8
+Environment 1 Beetle MRE: 27.787451503273452
+time (min): 1.1546958565711976
+Run 9
+Environment 1 Beetle MRE: 24.55627824944837
+time (min): 1.1113566954930623
+Run 10
+Environment 1 Beetle MRE: 32.47023257914574
+time (min): 1.1390652577082316
+Run 11
+Environment 1 Beetle MRE: 27.602141747392896
+time (min): 1.1306053439776103
+Run 12
+Environment 1 Beetle MRE: 23.016412398385217
+time (min): 1.1293997565905254
+Run 13
+Environment 1 Beetle MRE: 47.07317626523646
+time (min): 1.1536033074061076
+Run 14
+Environment 1 Beetle MRE: 48.27876791321193
+time (min): 1.1217031915982565
+Run 15
+Environment 1 Beetle MRE: 25.99008288323122
+time (min): 1.1461132486661276
+Run 16
+Environment 1 Beetle MRE: 40.3029943340637
+time (min): 1.1195759693781535
+Run 17
+Environment 1 Beetle MRE: 55.68761678543145
+time (min): 1.1440224687258402
+Run 18
+Environment 1 Beetle MRE: 39.2203304428837
+time (min): 1.1249758879343668
+Run 19
+Environment 1 Beetle MRE: 32.29647376537964
+time (min): 1.157413403193156
+Run 20
+Environment 1 Beetle MRE: 27.840413600447466
+time (min): 1.1365440487861633
+Run 21
+Environment 1 Beetle MRE: 40.556300143213925
+time (min): 1.1221777995427449
+Run 22
+Environment 1 Beetle MRE: 24.48946494807421
+time (min): 1.155884615580241
+Run 23
+Environment 1 Beetle MRE: 43.98022733291776
+time (min): 1.1422512094179789
+Run 24
+Environment 1 Beetle MRE: 48.81069186333929
+time (min): 1.1515030066172283
+Run 25
+Environment 1 Beetle MRE: 33.85701143811835
+time (min): 1.1283553520838419
+Run 26
+Environment 1 Beetle MRE: 50.55391667601309
+time (min): 1.1629802147547403
+Run 27
+Environment 1 Beetle MRE: 23.513096868110857
+time (min): 1.1336875359217327
+Run 28
+Environment 1 Beetle MRE: 41.952606415899986
+time (min): 1.1621253689130147
+Run 29
+Environment 1 Beetle MRE: 30.600048768033528
+time (min): 1.128301695982615
+Run 30
+Environment 1 Beetle MRE: 53.9514640370665
+time (min): 1.1221439560254416

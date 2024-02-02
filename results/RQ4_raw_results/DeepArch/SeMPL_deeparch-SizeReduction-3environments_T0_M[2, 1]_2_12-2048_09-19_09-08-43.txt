@@ -1,0 +1,91 @@
+N_train=12 N_test=4084
+Run 1
+Target_environment 0 SeMPL RE: 174.3979888759834
+time (min): 4.667926732699076
+Run 2
+Target_environment 0 SeMPL RE: 55.620684072974115
+time (min): 4.626910404364268
+Run 3
+Target_environment 0 SeMPL RE: 172.4742526890401
+time (min): 4.647560882568359
+Run 4
+Target_environment 0 SeMPL RE: 185.32711247148964
+time (min): 4.670570615927378
+Run 5
+Target_environment 0 SeMPL RE: 60.61009691344887
+time (min): 4.608898282051086
+Run 6
+Target_environment 0 SeMPL RE: 223.78661239491495
+time (min): 4.615275768438975
+Run 7
+Target_environment 0 SeMPL RE: 121.98335785285812
+time (min): 4.602347127596537
+Run 8
+Target_environment 0 SeMPL RE: 118.89751201912435
+time (min): 4.583776513735454
+Run 9
+Target_environment 0 SeMPL RE: 152.97665683287437
+time (min): 4.576800787448883
+Run 10
+Target_environment 0 SeMPL RE: 73.32355111120523
+time (min): 4.5779397288958235
+Run 11
+Target_environment 0 SeMPL RE: 139.13803129013246
+time (min): 4.637936814626058
+Run 12
+Target_environment 0 SeMPL RE: 128.8858861574153
+time (min): 4.661512072881063
+Run 13
+Target_environment 0 SeMPL RE: 258.76107639290905
+time (min): 4.699691383043925
+Run 14
+Target_environment 0 SeMPL RE: 140.77788635554717
+time (min): 4.6402401288350426
+Run 15
+Target_environment 0 SeMPL RE: 105.39876071602097
+time (min): 4.745272084077199
+Run 16
+Target_environment 0 SeMPL RE: 94.64283667614208
+time (min): 4.575265940030416
+Run 17
+Target_environment 0 SeMPL RE: 154.02061724961794
+time (min): 4.644836123784383
+Run 18
+Target_environment 0 SeMPL RE: 114.91492539165202
+time (min): 4.618197711308797
+Run 19
+Target_environment 0 SeMPL RE: 130.22954590434244
+time (min): 4.581821652253469
+Run 20
+Target_environment 0 SeMPL RE: 97.22961057653986
+time (min): 4.686668813228607
+Run 21
+Target_environment 0 SeMPL RE: 188.51155053383903
+time (min): 4.683583327134451
+Run 22
+Target_environment 0 SeMPL RE: 115.39026969847066
+time (min): 4.855352779229482
+Run 23
+Target_environment 0 SeMPL RE: 148.78673101290417
+time (min): 4.845297757784525
+Run 24
+Target_environment 0 SeMPL RE: 108.9030151896429
+time (min): 4.743189243475596
+Run 25
+Target_environment 0 SeMPL RE: 161.80543759530372
+time (min): 4.734658181667328
+Run 26
+Target_environment 0 SeMPL RE: 148.45281612599024
+time (min): 4.610267364978791
+Run 27
+Target_environment 0 SeMPL RE: 52.758147703904235
+time (min): 4.847563469409943
+Run 28
+Target_environment 0 SeMPL RE: 175.18675948911272
+time (min): 4.758347264925638
+Run 29
+Target_environment 0 SeMPL RE: 106.94514627812227
+time (min): 4.751096141338349
+Run 30
+Target_environment 0 SeMPL RE: 173.92551051628183
+time (min): 4.786924080053965

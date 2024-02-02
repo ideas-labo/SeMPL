@@ -1,0 +1,171 @@
+N_train=14 N_test=986 
+Run 1
+Environment 0 Deepperf RE: 1.0156778379247893
+Environment 1 Deepperf RE: 1.1126709674957769
+Environment 2 Deepperf RE: 1.1678667713241562
+Environment 3 Deepperf RE: 1.883985323403302
+Run 2
+Environment 0 Deepperf RE: 1.0170003216157861
+Environment 1 Deepperf RE: 1.606606853170876
+Environment 2 Deepperf RE: 0.9559306112324084
+Environment 3 Deepperf RE: 1.1717959238755298
+Run 3
+Environment 0 Deepperf RE: 1.2749017019181677
+Environment 1 Deepperf RE: 0.7759521245000359
+Environment 2 Deepperf RE: 0.9339578067867104
+Environment 3 Deepperf RE: 1.8807542421127872
+Run 4
+Environment 0 Deepperf RE: 0.9105324369140313
+Environment 1 Deepperf RE: 1.0337357474925146
+Environment 2 Deepperf RE: 1.103942405000146
+Environment 3 Deepperf RE: 1.2721099471336268
+Run 5
+Environment 0 Deepperf RE: 1.141606682251009
+Environment 1 Deepperf RE: 0.6552745885555334
+Environment 2 Deepperf RE: 11.835832260884452
+Environment 3 Deepperf RE: 11.0524415465541
+Run 6
+Environment 0 Deepperf RE: 1.138121173020873
+Environment 1 Deepperf RE: 0.7050439616583807
+Environment 2 Deepperf RE: 1.8911610041482678
+Environment 3 Deepperf RE: 1.6632469723574315
+Run 7
+Environment 0 Deepperf RE: 1.2962163814462149
+Environment 1 Deepperf RE: 1.0889624613052429
+Environment 2 Deepperf RE: 1.1167939479663336
+Environment 3 Deepperf RE: 0.9448767257229644
+Run 8
+Environment 0 Deepperf RE: 1.1588896356474407
+Environment 1 Deepperf RE: 1.098038402960282
+Environment 2 Deepperf RE: 1.266941471056855
+Environment 3 Deepperf RE: 1.194621954484644
+Run 9
+Environment 0 Deepperf RE: 2.3022247629509227
+Environment 1 Deepperf RE: 0.9223867309654169
+Environment 2 Deepperf RE: 1.879761386610846
+Environment 3 Deepperf RE: 1.4259049395481072
+Run 10
+Environment 0 Deepperf RE: 2.070612882741517
+Environment 1 Deepperf RE: 0.7109467512039556
+Environment 2 Deepperf RE: 1.1952168986713836
+Environment 3 Deepperf RE: 1.5140198603210926
+Run 11
+Environment 0 Deepperf RE: 1.0020423888470071
+Environment 1 Deepperf RE: 1.6603815739910635
+Environment 2 Deepperf RE: 1.087714858898507
+Environment 3 Deepperf RE: 1.1769201550131803
+Run 12
+Environment 0 Deepperf RE: 1.6020344036120904
+Environment 1 Deepperf RE: 1.513444101645393
+Environment 2 Deepperf RE: 0.9479570954201728
+Environment 3 Deepperf RE: 1.8807612902072854
+Run 13
+Environment 0 Deepperf RE: 1.0495908275465264
+Environment 1 Deepperf RE: 0.8161360252822665
+Environment 2 Deepperf RE: 1.2108559233632499
+Environment 3 Deepperf RE: 0.9785336102818551
+Run 14
+Environment 0 Deepperf RE: 0.9315261872959881
+Environment 1 Deepperf RE: 1.092422502786768
+Environment 2 Deepperf RE: 1.057651587462313
+Environment 3 Deepperf RE: 1.3629756853065893
+Run 15
+Environment 0 Deepperf RE: 1.368376719916308
+Environment 1 Deepperf RE: 1.5134789604480208
+Environment 2 Deepperf RE: 1.288534903963843
+Environment 3 Deepperf RE: 1.8765861543259266
+Run 16
+Environment 0 Deepperf RE: 0.9858397317491335
+Environment 1 Deepperf RE: 1.6837825189330045
+Environment 2 Deepperf RE: 1.2818711207171571
+Environment 3 Deepperf RE: 1.9873078798456658
+Run 17
+Environment 0 Deepperf RE: 1.3202765387732454
+Environment 1 Deepperf RE: 1.0312548172707996
+Environment 2 Deepperf RE: 1.2602958878428787
+Environment 3 Deepperf RE: 1.6968749740836706
+Run 18
+Environment 0 Deepperf RE: 0.8440003644118531
+Environment 1 Deepperf RE: 1.2959513722190685
+Environment 2 Deepperf RE: 1.0522925935505398
+Environment 3 Deepperf RE: 1.1378597357429214
+Run 19
+Environment 0 Deepperf RE: 1.2122705713414759
+Environment 1 Deepperf RE: 0.8697075420331012
+Environment 2 Deepperf RE: 1.172991405683328
+Environment 3 Deepperf RE: 1.5210712798082804
+Run 20
+Environment 0 Deepperf RE: 0.9315041417557435
+Environment 1 Deepperf RE: 0.9059988682305075
+Environment 2 Deepperf RE: 1.9274947306891383
+Environment 3 Deepperf RE: 1.2678842971299729
+Run 21
+Environment 0 Deepperf RE: 1.9436507722886556
+Environment 1 Deepperf RE: 0.9432027891329088
+Environment 2 Deepperf RE: 1.4070462820617462
+Environment 3 Deepperf RE: 1.534567824799783
+Run 22
+Environment 0 Deepperf RE: 1.5525332928467048
+Environment 1 Deepperf RE: 1.302144959693805
+Environment 2 Deepperf RE: 2.1150958211922166
+Environment 3 Deepperf RE: 1.2175408254980638
+Run 23
+Environment 0 Deepperf RE: 1.9134189515602311
+Environment 1 Deepperf RE: 1.4120185399147178
+Environment 2 Deepperf RE: 0.9419449041374227
+Environment 3 Deepperf RE: 1.994553642302755
+Run 24
+Environment 0 Deepperf RE: 1.496492434973449
+Environment 1 Deepperf RE: 1.1989900116270906
+Environment 2 Deepperf RE: 0.942863470254456
+Environment 3 Deepperf RE: 1.1732433769215
+Run 25
+Environment 0 Deepperf RE: 1.9201516507102798
+Environment 1 Deepperf RE: 1.4767648908315154
+Environment 2 Deepperf RE: 1.3608914923382356
+Environment 3 Deepperf RE: 1.8785308206308193
+Run 26
+Environment 0 Deepperf RE: 0.7730749146370248
+time (min): 3.032575845718384
+Environment 1 Deepperf RE: 1.5289384581747
+time (min): 3.2094911376635236
+Environment 2 Deepperf RE: 1.9353170825069876
+time (min): 3.6470337748527526
+Environment 3 Deepperf RE: 1.246475889370337
+time (min): 3.4571049372355143
+Run 27
+Environment 0 Deepperf RE: 1.3913380048484458
+time (min): 7.1528042435646055
+Environment 1 Deepperf RE: 1.678617914273358
+time (min): 8.84886064529419
+Environment 2 Deepperf RE: 1.55210048401516
+time (min): 7.169742564360301
+Environment 3 Deepperf RE: 1.9063035941100097
+time (min): 6.603523743152619
+Run 28
+Environment 0 Deepperf RE: 0.9830787146837988
+time (min): 8.44424988826116
+Environment 1 Deepperf RE: 0.7404190928313403
+time (min): 6.559619323412577
+Environment 2 Deepperf RE: 1.3978394077110066
+time (min): 4.090418295065562
+Environment 3 Deepperf RE: 3.0376161625194467
+time (min): 3.8781266530354817
+Run 29
+Environment 0 Deepperf RE: 1.466315862316783
+time (min): 3.433860119183858
+Environment 1 Deepperf RE: 0.8665167426057236
+time (min): 3.449202001094818
+Environment 2 Deepperf RE: 1.145617252394605
+time (min): 3.932908570766449
+Environment 3 Deepperf RE: 1.881909236941202
+time (min): 3.4133856018384297
+Run 30
+Environment 0 Deepperf RE: 1.9075041724968278
+time (min): 3.9295854568481445
+Environment 1 Deepperf RE: 1.493287751000242
+time (min): 8.74739031791687
+Environment 2 Deepperf RE: 1.8834185663235647
+time (min): 7.927808022499084
+Environment 3 Deepperf RE: 1.8758298333348224
+time (min): 4.446988526980082

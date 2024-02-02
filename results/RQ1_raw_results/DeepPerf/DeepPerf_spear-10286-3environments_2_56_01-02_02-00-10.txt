@@ -1,0 +1,211 @@
+N_train=56 N_test=13976 
+Run 1
+Environment 0 Deepperf MRE: 29.474001628212992
+time (min): 2.4501312971115112
+Environment 1 Deepperf MRE: 58.356577415712096
+time (min): 2.449597934881846
+Environment 2 Deepperf MRE: 40.718706095603544
+time (min): 2.463400459289551
+Run 2
+Environment 0 Deepperf MRE: 36.5613291160239
+time (min): 2.471320903301239
+Environment 1 Deepperf MRE: 64.01935840113865
+time (min): 2.488817361990611
+Environment 2 Deepperf MRE: 40.24577118680069
+time (min): 2.467928047974904
+Run 3
+Environment 0 Deepperf MRE: 47.013989688739954
+time (min): 2.4773049275080363
+Environment 1 Deepperf MRE: 74.0136801868426
+time (min): 2.880897347132365
+Environment 2 Deepperf MRE: 56.78781264095561
+time (min): 4.229445362091065
+Run 4
+Environment 0 Deepperf MRE: 28.93284138089271
+time (min): 2.4991041660308837
+Environment 1 Deepperf MRE: 60.74999889282686
+time (min): 2.503001642227173
+Environment 2 Deepperf MRE: 63.752551797535574
+time (min): 2.513277761141459
+Run 5
+Environment 0 Deepperf MRE: 29.705868683397142
+time (min): 2.495874067147573
+Environment 1 Deepperf MRE: 56.9942052176159
+time (min): 2.4816398938496906
+Environment 2 Deepperf MRE: 33.72950796473726
+time (min): 2.4906200925509134
+Run 6
+Environment 0 Deepperf MRE: 30.58923703117343
+time (min): 2.512823728720347
+Environment 1 Deepperf MRE: 61.312901051533686
+time (min): 2.5286025563875834
+Environment 2 Deepperf MRE: 41.394668826325386
+time (min): 2.513937215010325
+Run 7
+Environment 0 Deepperf MRE: 45.870100300816006
+time (min): 2.5565373142560324
+Environment 1 Deepperf MRE: 65.79498075503294
+time (min): 2.525289976596832
+Environment 2 Deepperf MRE: 33.839020196532005
+time (min): 2.5627068082491555
+Run 8
+Environment 0 Deepperf MRE: 33.545278820218385
+time (min): 2.7056562463442484
+Environment 1 Deepperf MRE: 59.8502243237509
+time (min): 2.461938512325287
+Environment 2 Deepperf MRE: 34.192296767585454
+time (min): 2.471055463949839
+Run 9
+Environment 0 Deepperf MRE: 33.887626647282566
+time (min): 2.4068350632985434
+Environment 1 Deepperf MRE: 56.030797930276286
+time (min): 2.463214925924937
+Environment 2 Deepperf MRE: 43.59325497535565
+time (min): 4.056091856956482
+Run 10
+Environment 0 Deepperf MRE: 37.17636641556359
+time (min): 2.493333276112874
+Environment 1 Deepperf MRE: 67.28956964406926
+time (min): 2.4569178223609924
+Environment 2 Deepperf MRE: 44.260106914449096
+time (min): 2.4356387734413145
+Run 11
+Environment 0 Deepperf MRE: 57.01134388886915
+time (min): 2.561184207598368
+Environment 1 Deepperf MRE: 79.06793694249932
+time (min): 2.740880846977234
+Environment 2 Deepperf MRE: 63.13046779870619
+time (min): 2.726735850175222
+Run 12
+Environment 0 Deepperf MRE: 27.99782670905567
+time (min): 2.7847630461057027
+Environment 1 Deepperf MRE: 53.75471514160086
+time (min): 2.419070287545522
+Environment 2 Deepperf MRE: 35.00347190664562
+time (min): 2.408681643009186
+Run 13
+Environment 0 Deepperf MRE: 60.632632751767055
+time (min): 2.4311941186587016
+Environment 1 Deepperf MRE: 60.5921636775831
+time (min): 2.405680811405182
+Environment 2 Deepperf MRE: 44.98638051214752
+time (min): 2.491346363226573
+Run 14
+Environment 0 Deepperf MRE: 28.4980836409449
+time (min): 2.431681187947591
+Environment 1 Deepperf MRE: 54.117195247979936
+time (min): 2.463224498430888
+Environment 2 Deepperf MRE: 26.563327188719526
+time (min): 2.5187140027681987
+Run 15
+Environment 0 Deepperf MRE: 52.18404035572385
+time (min): 2.4731654365857443
+Environment 1 Deepperf MRE: 101.18629785848951
+time (min): 2.4934683442115784
+Environment 2 Deepperf MRE: 63.14277245950372
+time (min): 2.4405275026957196
+Run 16
+Environment 0 Deepperf MRE: 42.35410260098874
+time (min): 2.449967455863953
+Environment 1 Deepperf MRE: 64.87109655840509
+time (min): 2.468071003754934
+Environment 2 Deepperf MRE: 38.96768476361235
+time (min): 2.501768962542216
+Run 17
+Environment 0 Deepperf MRE: 39.379487538821984
+time (min): 2.5519697268803916
+Environment 1 Deepperf MRE: 82.99498868110476
+time (min): 2.5430178880691527
+Environment 2 Deepperf MRE: 55.70442370886888
+time (min): 2.5594643632570904
+Run 18
+Environment 0 Deepperf MRE: 38.18779319847865
+time (min): 2.4486888368924458
+Environment 1 Deepperf MRE: 61.06711895997806
+time (min): 3.675066610177358
+Environment 2 Deepperf MRE: 37.24373567656399
+time (min): 3.6344337026278177
+Run 19
+Environment 0 Deepperf MRE: 35.70268724871376
+time (min): 2.5571148872375487
+Environment 1 Deepperf MRE: 249.8703177686726
+time (min): 2.495503310362498
+Environment 2 Deepperf MRE: 83.2459406034949
+time (min): 2.5484625776608785
+Run 20
+Environment 0 Deepperf MRE: 41.31690526878706
+time (min): 2.4553266088167827
+Environment 1 Deepperf MRE: 59.92029962129236
+time (min): 2.501513655980428
+Environment 2 Deepperf MRE: 42.40145098766878
+time (min): 2.4766951243082684
+Run 21
+Environment 0 Deepperf MRE: 51.68548033116864
+time (min): 2.501341466108958
+Environment 1 Deepperf MRE: 63.0378881373449
+time (min): 2.9126062552134195
+Environment 2 Deepperf MRE: 39.25874838293548
+time (min): 2.903224229812622
+Run 22
+Environment 0 Deepperf MRE: 33.44046940176769
+time (min): 2.457255756855011
+Environment 1 Deepperf MRE: 56.851220256951464
+time (min): 2.4705528179804483
+Environment 2 Deepperf MRE: 38.33847532989908
+time (min): 2.4946534434954324
+Run 23
+Environment 0 Deepperf MRE: 26.30506418009326
+time (min): 4.400216170152029
+Environment 1 Deepperf MRE: 672.5240645499182
+time (min): 4.999764676888784
+Environment 2 Deepperf MRE: 31.352447830909192
+time (min): 4.958063340187072
+Run 24
+Environment 0 Deepperf MRE: 37.7905741559928
+time (min): 3.7764257907867433
+Environment 1 Deepperf MRE: 62.248238640355744
+time (min): 4.9805502653121945
+Environment 2 Deepperf MRE: 89.37933515898916
+time (min): 3.7662639220555625
+Run 25
+Environment 0 Deepperf MRE: 52.53214900785835
+time (min): 3.7514868140220643
+Environment 1 Deepperf MRE: 56.540690867685406
+time (min): 3.759165585041046
+Environment 2 Deepperf MRE: 36.490682742211426
+time (min): 3.841831084092458
+Run 26
+Environment 0 Deepperf MRE: 31.07848546490981
+time (min): 3.785051492849986
+Environment 1 Deepperf MRE: 59.272480249334144
+time (min): 3.7328720808029177
+Environment 2 Deepperf MRE: 34.41460472660936
+time (min): 3.7471199512481688
+Run 27
+Environment 0 Deepperf MRE: 67.39634168717359
+time (min): 3.8059327562650043
+Environment 1 Deepperf MRE: 60.98553277632233
+time (min): 5.072512789567312
+Environment 2 Deepperf MRE: 115.60853345182468
+time (min): 5.032436331113179
+Run 28
+Environment 0 Deepperf MRE: 27.882894232618177
+time (min): 3.889793248971303
+Environment 1 Deepperf MRE: 54.364207800829924
+time (min): 3.8475319782892865
+Environment 2 Deepperf MRE: 29.339708790766057
+time (min): 3.9096054633458457
+Run 29
+Environment 0 Deepperf MRE: 49.73808518660638
+time (min): 3.922759262720744
+Environment 1 Deepperf MRE: 89.96488179607098
+time (min): 3.862109935283661
+Environment 2 Deepperf MRE: 41.610887647949845
+time (min): 3.8169699867566425
+Run 30
+Environment 0 Deepperf MRE: 38.81359714141405
+time (min): 3.764478305975596
+Environment 1 Deepperf MRE: 65.34088959314671
+time (min): 3.763114500045776
+Environment 2 Deepperf MRE: 39.6685839122117
+time (min): 3.8413136839866637

@@ -11,7 +11,7 @@ This repository contains the **key codes**, **full data used**, **raw experiment
 
 >Jingzhi Gong and Tao Chen. 2024. Predicting Configuration Performance in Multiple Environments with
 Sequential Meta-Learning, *The ACM International Conference on the Foundations of Software Engineering (FSE)*, July 15-
-19, 2024, Porto de Galinhas, Brazil, 20 pages.
+19, 2024, Porto de Galinhas, Brazil, 24 pages.
 
 # Documents
 - **data**:
@@ -124,7 +124,7 @@ Below are the repositories of the SOTA performance prediction models, which are 
 
 - [XGBoost](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html)
 
-    A gradient boosting algorithm that leverages the combination of multiple weak trees to create a robust ensemble.
+    A gradient-boosting algorithm that leverages the combination of multiple weak trees to create a robust ensemble.
     
    
 #### Joint Learning for Performance Models

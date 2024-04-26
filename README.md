@@ -14,6 +14,9 @@ Sequential Meta-Learning, *The ACM International Conference on the Foundations o
 19, 2024, Porto de Galinhas, Brazil, 24 pages.
 
 # Documents
+- **artifact documents**
+the required documents for the submission of Artifacts FSE'24.
+
 - **data**:
 configuration datasets of nine subject systems as specified in the paper.
 

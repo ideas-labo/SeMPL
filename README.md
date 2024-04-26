@@ -36,7 +36,7 @@ the required packages for running SeMPL_main.py.
 1. Download all the files into the same folder/clone the repository.
 
 2. Install the specified version of Python:
-the codes have been tested with **Python 3.6 - 3.9**, other versions might cause errors.
+the codes have been tested with **Python 3.6 - 3.9**, **tensorflow 2.12 - 2.16**, and **keras < 3.0**, other versions might cause errors.
 
 3. Using the command line: cd to the folder with the codes, and install all the required packages by running:
 
